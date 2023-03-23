@@ -8,10 +8,10 @@
       }
     },
     "color": {
-      "value": ["#dc052d"]
+      "value": ["#5F8D4E"]
     },
     "shape": {
-      "type": "polygon",
+      "type": ["circle", "triangle", "polygon"],
       "stroke": {
         "width": 0,
         "color": "#000000"
@@ -24,7 +24,7 @@
       "value": 0.7,
       "random": true,
       "anim": {
-        "enable": false,
+        "enable": true,
         "speed": 1,
         "opacity_min": 0.4,
         "sync": false
