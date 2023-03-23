@@ -8,7 +8,7 @@
 $small-screen: 48em !default;
 $medium-screen: 62em !default;
 $large-screen: 75em !default;
-$font-family: "Raleway", sans-serif;
+$font-family: "fantasy", sans-serif;
 $font-family-numbers: "Josefin Sans", sans-serif;
 $font-size-base: 1rem !default;
 $font-size-h1: 2rem !default;
@@ -20,7 +20,7 @@ $card-bg-color: linear-gradient(
   rgba(115, 115, 115, 0.15) 15%,
   rgba(43, 45, 47, 1) 80%
 );
-$primary-color: #285430;
+$primary-color: #adb5ab;
 
 /* General */
 
@@ -292,7 +292,7 @@ a {
       }
 
       .social-svg {
-        fill: #000;
+        fill: #adb5ab;
       }
 
       .label {
@@ -309,7 +309,7 @@ a {
         colorEmail 1s linear forwards;
     }
     .social-svg {
-      fill: #5F8D4E;
+      fill: #adb5ab;
     }
   }
 
@@ -355,13 +355,13 @@ a {
 
   @keyframes colorBlackIcon {
     to {
-      stroke: #000;
+      stroke: #adb5ab;
     }
   }
 
   @keyframes colorEmail {
     to {
-      stroke: #5F8D4E;
+      stroke: #adb5ab;
     }
   }
 
@@ -631,7 +631,7 @@ a {
 
   .black:hover {
     .social-svg {
-      fill: #000;
+      fill: #adb5ab;
     }
   }
 
