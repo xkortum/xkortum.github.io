@@ -58,6 +58,18 @@
     - tag: SQL
   timeline-side: left
 
+- title: University of Wisconsin, USA
+  title-url: https://www.uwp.edu/
+  date: Oct. 2011 - May. 2013
+  subtitle: Research Assistant
+  tags:
+    - tag: Objective-C
+    - tag: 3D Modelling
+    - tag: Unity
+    - tag: Xcode
+    - tag: Cocos2d
+  timeline-side: right
+
 - title: Beijing Information Science and Technology University, China
   title-url: https://english.bistu.edu.cn/
   date: Sep. 2008 - Jul. 2014
