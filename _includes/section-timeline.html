@@ -12,6 +12,7 @@
       {% if event.timeline-side == 'left' %}
         <li>
           <div class="direction-l">
+            <span class="hexagon"></span>
             <div class="desc neumorphism-card" data-aos="zoom-in-right">
               <span class="time-wrapper" data-aos="zoom-in-right">
                 <span class="time neumorphism-card">{{event.date}}</span>
@@ -20,7 +21,7 @@
               <br>
               <hr>
               {{event.subtitle}}
-              <br>
+              <br><br>
               <a href="{{event.title-url}}" target="_blank" rel="noreferrer">
                 <span>{{event.title}}</span>
               </a>
@@ -34,31 +35,33 @@
             </div>
             
             <div class="flag-wrapper">
-              <span class="time-wrapper" data-aos="zoom-in-right">
-                <span class="time neumorphism-card">{{event.date}}</span>
-              </span>
-              <br>
-              <hr>
-              <span class="desc neumorphism-button" data-aos="zoom-in-right">
+              <span class="hexagon"></span>
+              <div class="desc neumorphism-card" data-aos="zoom-in-right">
+                <span class="time-wrapper" data-aos="zoom-in-right">
+                  <span class="time neumorphism-card">{{event.date}}</span>
+                </span>
+                {{event.date}}
+                <br>
+                <hr>
+                {{event.subtitle}}
+                <br><br>
                 <a href="{{event.title-url}}" target="_blank" rel="noreferrer">
                   <span>{{event.title}}</span>
                 </a>
-              </span>
-              
+                {% if event.tags %}
+                  <div class="tag-wrapper">
+                    {% for tag in event.tags %}
+                      <span class="tag neumorphism-card">{{tag.tag}}</span>
+                    {% endfor %}
+                  </div>
+                {% endif %}
+              </div>
             </div>
-            <div class="desc neumorphism-card" data-aos="zoom-in-right">
-              {{event.subtitle}}
-              {% if event.tags %}
-                <div class="tag-wrapper">
-                  {% for tag in event.tags %}
-                    <span class="tag neumorphism-card">{{tag.tag}}</span>
-                  {% endfor %}
-                </div>
-              {% endif %}
-            </div>
+            
           </div>
         </li>
       {% endif %}
+
 
       {% if event.timeline-side == 'right' %}
         <li>
