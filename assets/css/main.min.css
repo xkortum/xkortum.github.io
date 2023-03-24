@@ -156,8 +156,8 @@ a:hover {
 #landing,
 .footer a:focus,
 .footer a:hover {
-  background: #adb5ab;
-  color: #0f2c18;
+  background: #0f2c18;
+  color: #adb5ab;
 }
 #landing {
   display: -ms-flexbox;
