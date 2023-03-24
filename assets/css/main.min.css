@@ -229,7 +229,7 @@ a:hover {
   animation: b 1s ease-in-out forwards, e 1s linear forwards;
 }
 .landing-icons .email:hover .social-svg {
-  fill: #a4be7b;
+  fill: #0F2C18;
 }
 .landing-icons .linkedin:hover .circle {
   animation: b 1s ease-in-out forwards, f 1s linear forwards;
