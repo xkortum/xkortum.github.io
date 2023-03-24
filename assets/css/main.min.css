@@ -311,23 +311,23 @@ a:hover {
   color: #d8e5b6;
 }
 #skills div[skill-weight="1"] {
-  font-size: 0.95rem;
-  line-height: 0.95rem;
+  font-size: 0.85rem;
+  line-height: 1.05rem;
 }
 #skills div[skill-weight="2"] {
-  font-size: 1.25rem;
+  font-size: 1.05rem;
   line-height: 1.25rem;
 }
 #skills div[skill-weight="3"] {
-  font-size: 1.55rem;
+  font-size: 1.25rem;
   line-height: 1.55rem;
 }
 #skills div[skill-weight="4"] {
-  font-size: 1.75rem;
+  font-size: 1.55rem;
   line-height: 1.75rem;
 }
 #skills div[skill-weight="5"] {
-  font-size: 2.05rem;
+  font-size: 1.75rem;
   line-height: 2.25rem;
 }
 #skills .filter-button,
