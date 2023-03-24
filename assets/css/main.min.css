@@ -27,7 +27,7 @@ a {
   text-decoration: none;
 }
 a:hover {
-  color: #0f2c18;
+  color: #a4be7b;
 }
 .highlight-title {
   color: #adb5ab;
@@ -229,7 +229,7 @@ a:hover {
   animation: b 1s ease-in-out forwards, e 1s linear forwards;
 }
 .landing-icons .email:hover .social-svg {
-  fill: #adb5ab;
+  fill: #a4be7b;
 }
 .landing-icons .linkedin:hover .circle {
   animation: b 1s ease-in-out forwards, f 1s linear forwards;
