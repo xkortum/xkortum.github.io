@@ -157,7 +157,7 @@ a:hover {
 .footer a:focus,
 .footer a:hover {
   background: #0f2c18;
-  color: #0f2c18;
+  color: #adb5ab;
 }
 #landing {
   display: -ms-flexbox;
@@ -204,7 +204,7 @@ a:hover {
   width: 100%;
 }
 .landing-icons .social-link .social-svg {
-  fill: #0f2c18;
+  fill: #adb5ab;
 }
 .landing-icons .social-link .label {
   display: none;
@@ -214,7 +214,7 @@ a:hover {
 }
 .landing-icons .social-link:hover .circle {
   animation: b 1s ease-in-out forwards, d 1s linear forwards;
-  fill: #0f2c18;
+  fill: #adb5ab;
   fill-opacity: 1;
 }
 .landing-icons .social-link:hover .social-svg {
@@ -256,7 +256,7 @@ a:hover {
     stroke-width: 0.5rem;
   }
   to {
-    stroke: #0f2c18;
+    stroke: #adb5ab;
     stroke-dasharray: 83;
     stroke-width: 0.5rem;
   }
@@ -268,7 +268,7 @@ a:hover {
 }
 @keyframes e {
   to {
-    stroke: #0f2c18;
+    stroke: #adb5ab;
   }
 }
 @keyframes f {
