@@ -65,6 +65,7 @@ a:hover {
 }
 .layout .card .description {
   text-align: justify;
+  margin: 3rem 0;
 }
 .neumorphism-button {
   background: linear-gradient(
