@@ -301,13 +301,13 @@ a:hover {
   transition: opacity 0.5s;
 }
 #skills div[skill-type="language"] {
-  color: #285430;
+  color: #A4BE7B;
 }
 #skills div[skill-type="framework"] {
   color: #5F8D4E;
 }
 #skills div[skill-type="tool"] {
-  color: #A4BE7B;
+  color: #d8e5b6;
 }
 #skills div[skill-weight="1"] {
   font-size: 0.75rem;

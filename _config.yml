@@ -24,8 +24,8 @@ email: xiaoweikortum@yahoo.com
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: xkortum
-codepen_username: xkortum
-dev_username: xkortum
+# codepen_username: xkortum
+# dev_username: xkortum
 linkedin_username: xiaoweikortum
 twitter_username: KortumLu
 
@@ -85,7 +85,7 @@ show_contact_card: true
 contact_title: My Contact Information
 # contact_description: This will be displayed under the title.
 contact_description: ...
-contact_address: Karlstr. 28 38106 
+contact_address: Karlstr. 1919 38106 
 contact_city: Braunschweig, Germany
 contact_phone: 0176 7219 0000
 contact_email: xiaoweikortum@yahoo.com
