@@ -19,7 +19,6 @@
               <span class="time-wrapper" data-aos="zoom-in-right">
                 <span class="time neumorphism-card">{{event.date}}</span>
               </span>
-              {{event.date}}
               <br>
               <hr>
               {{event.subtitle}}
@@ -45,17 +44,18 @@
           <div class="direction-r">
             <div class="flag-wrapper">
               <span class="hexagon"></span>
-              <span class="flag neumorphism-button" data-aos="zoom-in-left">
-                <a href="{{event.title-url}}" target="_blank" rel="noreferrer">
-                  <span>{{event.title}}</span>
-                </a>
-              </span>
+            </div>
+            <div class="desc neumorphism-card" data-aos="zoom-in-left">
               <span class="time-wrapper" data-aos="zoom-in-left">
                 <span class="time neumorphism-card">{{event.date}}</span>
               </span>
-            </div>
-            <div class="desc neumorphism-card" data-aos="zoom-in-left">
+              <br>
+              <hr>
               {{event.subtitle}}
+              <br><br>
+              <a href="{{event.title-url}}" target="_blank" rel="noreferrer">
+                <span>{{event.title}}</span>
+              </a>
               {% if event.tags %}
                 <div class="tag-wrapper">
                   {% for tag in event.tags %}
@@ -63,7 +63,7 @@
                   {% endfor %}
                 </div>
               {% endif %}
-            </div>
+            </div> 
           </div>
         </li>
       {% endif %}
