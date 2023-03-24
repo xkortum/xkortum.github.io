@@ -115,7 +115,7 @@ a:hover {
 }
 #preloader .load :first-child {
   animation-delay: -1.5s;
-  background: #0f2c18;
+  background: #adb5ab;
 }
 #preloader .load :nth-child(2) {
   animation-delay: -1s;
@@ -123,7 +123,7 @@ a:hover {
 }
 #preloader .load :nth-child(3) {
   animation-delay: -0.5s;
-  background: #0f2c18;
+  background: #adb5ab;
 }
 #preloader .load :last-child {
   background: #5f8d4e;
@@ -151,13 +151,13 @@ a:hover {
   text-align: center;
 }
 .footer a {
-  color: #adb5ab;
+  color: #5f8d4e;
 }
 #landing,
 .footer a:focus,
 .footer a:hover {
-  background: #adb5ab;
-  color: #0f2c18;
+  background: #0f2c18;
+  color: #adb5ab;
 }
 #landing {
   display: -ms-flexbox;
@@ -183,7 +183,7 @@ a:hover {
   justify-content: center;
 }
 .landing-icons .social-link {
-  color: #0f2c18;
+  color: #5f8d4e;
   position: relative;
   height: 3rem;
   line-height: 3rem;
@@ -229,7 +229,7 @@ a:hover {
   animation: b 1s ease-in-out forwards, e 1s linear forwards;
 }
 .landing-icons .email:hover .social-svg {
-  fill: #0F2C18;
+  fill: #5f8d4e;
 }
 .landing-icons .linkedin:hover .circle {
   animation: b 1s ease-in-out forwards, f 1s linear forwards;
@@ -251,12 +251,12 @@ a:hover {
 }
 @keyframes c {
   0% {
-    stroke: #0f2c18;
+    stroke: #adb5ab;
     stroke-dasharray: 510;
     stroke-width: 0.5rem;
   }
   to {
-    stroke: #0f2c18;
+    stroke: #adb5ab;
     stroke-dasharray: 83;
     stroke-width: 0.5rem;
   }
@@ -268,7 +268,7 @@ a:hover {
 }
 @keyframes e {
   to {
-    stroke: #adb5ab;
+    stroke: #5f8d4e;
   }
 }
 @keyframes f {
