@@ -85,16 +85,16 @@ show_contact_card: true
 contact_title: My Contact Information
 # contact_description: This will be displayed under the title.
 contact_description: ...
-contact_address: Karlstr. 1919 38106 
+contact_address: Karlstr. 28 38106 
 contact_city: Braunschweig, Germany
-contact_phone: 0176 7219 0000
+contact_phone: 0176 7219 8909
 contact_email: xiaoweikortum@yahoo.com
 
 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: longpdo/neumorphism
+repository: xkortum/xkortum.github.io
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
