@@ -5,14 +5,14 @@
 # - name: Language
 #   weight: 5
 
-- name: TypeScript
+- name: R
+  weight: 5
+
+- name: Python
   weight: 5
 
 - name: JavaScript
   weight: 4
-
-- name: Python
-  weight: 2
 
 - name: HTML5
   weight: 4
@@ -20,23 +20,45 @@
 - name: CSS3
   weight: 3
 
-- name: SASS
+- name: XML
   weight: 3
 
 - name: Java
-  weight: 1
+  weight: 5
 
-- name: Dart
-  weight: 1
-
-- name: Swift
-  weight: 1
-
-- name: Kotlin
-  weight: 1
+- name: C
+  weight: 3
 
 - name: C++
   weight: 2
 
-- name: Ruby
+- name: Objective C
   weight: 2
+
+- name: PHP
+  weight: 5
+
+- name: Machine Learning
+  weight: 5
+
+- name: Data Modeling
+  weight: 5
+
+- name: Statistical Analysis
+  weight: 5
+
+- name: Data Mining
+  weight: 5
+
+- name: Predictive Analysis
+  weight: 5
+
+- name: Database Management
+  weight: 5
+
+- name: Data Visualization
+  weight: 5
+
+- name: Artificial Intelligence
+  weight: 5
+

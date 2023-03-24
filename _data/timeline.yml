@@ -17,45 +17,54 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Technische Universität Carolo-Wilhelmina Braunschweig, Germany
+  title-url: https://www.tu-braunschweig.de/
+  date: Oct. 2014 - Present
+  subtitle: Doctor in Computer Science (Dr. rer. nat.)
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
-  timeline-side: right
-
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+    - tag: Machine Learning
+    - tag: Artificial Intelligence
+    - tag: Data Visualization
+    - tag: Data Mining
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Ostfalia University of Applied Sciences, Germany
+  title-url: https://www.ostfalia.de/cms/en/
+  date: Oct. 2015 - Nov. 2018
+  subtitle: Scientific Researcher
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Pattern Recognation
+    - tag: Predictive Analysis
+    - tag: R Shiny
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Medizinische Hochschule Hannover, Germany
+  title-url: https://www.mhh.de/
+  date: Sep. 2014 - Sep. 2015
+  subtitle: Scientific Researcher
+  tags:
+    - tag: Data Modeling
+    - tag: Statistical Analysis
+    - tag: Database Management
+  timeline-side: right
+
+- title: University of Wisconsin, USA
+  title-url: https://www.uwp.edu/
+  date: Sep. 2012 - Jun. 2014
+  subtitle: Master in Computer Information Systems (M. Sc.) 
+  tags:
+    - tag: Java Script
+    - tag: PHP/XML/HTML/CSS
+    - tag: SQL
+  timeline-side: left
+
+- title: Beijing Information Science and Technology University, China
+  title-url: https://english.bistu.edu.cn/
+  date: Sep. 2008 - Jul. 2014
+  subtitle: Bachelor in Information Management & Information System (B. Sc.)
+  tags:
+    - tag: Java/C/C++/C#
+    - tag: Project Management
+    - tag: ERP
+    - tag: Information System
   timeline-side: left

@@ -8,29 +8,32 @@
 - name: Git
   weight: 5
 
-- name: Bash
+- name: KNIME
   weight: 3
 
-- name: Scrum
-  weight: 3
+- name: RStudio
+  weight: 5
 
-- name: Travis CI
-  weight: 1
-
-- name: Jenkins
-  weight: 1
-
-- name: Chrome DevTools
+- name: Tableau
   weight: 2
 
-- name: npm
+- name: SQL
+  weight: 5
+
+- name: Python
   weight: 2
 
-- name: gulp
-  weight: 4
+- name: Power BI
+  weight: 5
 
 - name: VS Code
+  weight: 5
+
+- name: Jupyter Notebook
+  weight: 4
+
+- name: Docker
   weight: 3
 
-- name: Postman
-  weight: 4
+- name: Apache Airflow
+  weight: 1

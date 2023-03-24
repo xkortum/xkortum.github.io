@@ -6,10 +6,10 @@
 #   weight: 5
 
 - name: Angular
-  weight: 5
+  weight: 3
 
 - name: AngularJS
-  weight: 3
+  weight: 2
 
 - name: React
   weight: 4
@@ -17,17 +17,29 @@
 - name: Node
   weight: 1
 
-- name: Flutter
+- name: PyTorch
+  weight: 5
+
+- name: Scikit-learn
+  weight: 5
+
+- name: Pandas
+  weight: 5
+
+- name: NumPy
+  weight: 5
+
+- name: TensorFlow
   weight: 2
 
-- name: Express
-  weight: 3
-
-- name: Django
+- name: Vue.js
   weight: 1
 
-- name: Spring
-  weight: 2
-
-- name: Rails
+- name: Matplotlib
   weight: 4
+
+- name: Seaborn
+  weight: 4
+
+- name: SciPy
+  weight: 3
