@@ -6,7 +6,7 @@
 #   weight: 5
 
 - name: Git
-  weight: 5
+  weight: 4
 
 - name: KNIME
   weight: 3
@@ -21,16 +21,16 @@
   weight: 5
 
 - name: Python
-  weight: 2
+  weight: 4
 
 - name: Power BI
-  weight: 5
+  weight: 1
 
 - name: VS Code
   weight: 5
 
 - name: Jupyter Notebook
-  weight: 4
+  weight: 3
 
 - name: Docker
   weight: 3

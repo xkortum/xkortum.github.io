@@ -15,25 +15,25 @@
   weight: 4
 
 - name: HTML5
-  weight: 4
+  weight: 3
 
 - name: CSS3
-  weight: 3
+  weight: 2
 
 - name: XML
-  weight: 3
+  weight: 2
 
 - name: Java
   weight: 5
 
 - name: C
-  weight: 3
+  weight: 2
 
 - name: C++
   weight: 2
 
 - name: Objective C
-  weight: 2
+  weight: 1
 
 - name: PHP
   weight: 5
@@ -42,22 +42,22 @@
   weight: 5
 
 - name: Data Modeling
-  weight: 5
+  weight: 4
 
 - name: Statistical Analysis
-  weight: 5
+  weight: 4
 
 - name: Data Mining
   weight: 5
 
 - name: Predictive Analysis
-  weight: 5
+  weight: 3
 
 - name: Database Management
-  weight: 5
+  weight: 4
 
 - name: Data Visualization
-  weight: 5
+  weight: 3
 
 - name: Artificial Intelligence
   weight: 5
