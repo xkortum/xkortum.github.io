@@ -412,7 +412,7 @@ a:hover {
   right: 0;
 }
 .timeline-wrapper .time-wrapper {
-  color: #adb5ab;
+  color: #fff;
   display: block;
   line-height: 0.5rem;
   margin-top: 0.3rem;
@@ -449,7 +449,7 @@ a:hover {
   line-height: 1rem;
 }
 .project-stars-forks {
-  fill: #0f2c18;
+  fill: #fff;
   font-family: Josefin Sans, sans-serif;
 }
 .tag-wrapper {
