@@ -80,3 +80,14 @@
     - tag: ERP
     - tag: Information System
   timeline-side: left
+
+- title: COFCO Limited - IT Department, Beijing, China
+  title-url: https://www.cofcointernational.com/
+  date: Jan. 2011 - Sep. 2011
+  subtitle: Data Analyst
+  tags:
+    - tag: Database Design
+    - tag: Java
+    - tag: Eclipse
+    - tag: Android SDK
+  timeline-side: right

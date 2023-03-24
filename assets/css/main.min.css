@@ -145,7 +145,7 @@ a:hover {
 }
 .footer {
   background: #0f2c18;
-  color: #0f2c18;
+  color: #adb5ab;
   margin: 0.5rem;
   padding: 1rem;
   text-align: center;
@@ -156,8 +156,8 @@ a:hover {
 #landing,
 .footer a:focus,
 .footer a:hover {
-  background: #0f2c18;
-  color: #adb5ab;
+  background: #adb5ab;
+  color: #0f2c18;
 }
 #landing {
   display: -ms-flexbox;
