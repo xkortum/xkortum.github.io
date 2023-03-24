@@ -405,27 +405,27 @@ a {
   }
 
   div[skill-weight="1"] {
-    font-size: 0.75rem;
-    line-height: 0.25rem;
+    font-size: 0.85rem;
+  line-height: 1.05rem;
   }
 
   div[skill-weight="2"] {
-    font-size: 1.25rem;
-    line-height: 0.75rem;
-  }
-
-  div[skill-weight="3"] {
-    font-size: 1.75rem;
+    font-size: 1.05rem;
     line-height: 1.25rem;
   }
 
+  div[skill-weight="3"] {
+    font-size: 1.25rem;
+    line-height: 1.55rem;
+  }
+
   div[skill-weight="4"] {
-    font-size: 2.25rem;
+    font-size: 1.55rem;
     line-height: 1.75rem;
   }
 
   div[skill-weight="5"] {
-    font-size: 2.75rem;
+    font-size: 1.75rem;
     line-height: 2.25rem;
   }
 
