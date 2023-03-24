@@ -20,9 +20,6 @@
 - name: SQL
   weight: 5
 
-- name: Python
-  weight: 4
-
 - name: Power BI
   weight: 1
 
