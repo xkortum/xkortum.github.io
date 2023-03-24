@@ -8,9 +8,6 @@
 - name: Angular
   weight: 2
 
-- name: AngularJS
-  weight: 2
-
 - name: React
   weight: 3
 
@@ -27,7 +24,7 @@
   weight: 5
 
 - name: NumPy
-  weight: 5
+  weight: 4
 
 - name: TensorFlow
   weight: 1
@@ -39,7 +36,7 @@
   weight: 3
 
 - name: Seaborn
-  weight: 3
+  weight: 2
 
 - name: SciPy
   weight: 2
