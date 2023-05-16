@@ -15,11 +15,11 @@ username: Xiaowei Kortum
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: A Data Scientist.
-typing_text1: 8+ Years of Machine Learning Experiences.
+typing_text1: 6+ Years of Machine Learning | Data Mining Experiences.
 typing_text2: Scroll down for more about me...
 
 # email: Your E-Mail address for the email button.
-email: xiaoweikortum@yahoo.com
+email: xkortum@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
@@ -37,8 +37,15 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I am currently holding a Doctor degree from Technische Universität Braunschweig and have 8+ years of experience as a Computer and Data Scientist researcher and practitioner. I've previously worked at prestigious institutions such as Ostfalia University of Applied Sciences, Medizinische Hochschule Hannover, and the University of Wisconsin. My technical expertise includes database programming, fluency in programming languages such as R, Python, C++, C#, Java, and Objective C, as well as extensive experience in web design and MVC architectures. My conscientious approach and project management skills have resulted in the successful completion of numerous research projects, and my contributions have been published in prestigious journals such as PLoS ONE and BMC Medical Informatics and Decision Making. I speak English and Chinese fluently and understand German (Elementary - B2). I'm fascinated by cutting-edge technologies and life philosophies from different cultures. Please <a class="highlight-link" href="https://www.dropbox.com/s/cmab8skphjzkk9p/xiaowei_CV_2023.pdf?dl=0" target="_blank" rel="noreferrer"> Download My CV </a>, or find me on <a class="highlight-link" href="https://www.linkedin.com/in/xiaoweikortum/" target="_blank" rel="noreferrer">LinkedIn</a> for more about me.
+about_me_description: I hold a Doctorate degree from Technische Universität Braunschweig and possess over 6 years of experience as a Computer and Data Scientist researcher and practitioner. Throughout my career, I have had the privilege of working at esteemed institutions including Ostfalia University of Applied Sciences, Medizinische Hochschule Hannover, and the University of Wisconsin.
 
+My technical expertise encompasses various domains, such as database programming and proficiency in programming languages such as R, Python, C++, C#, Java, and Objective C. Additionally, I have gained extensive experience in web design and MVC architectures.
+
+My conscientious approach and strong project management skills have led to the successful completion of numerous research projects. Notably, my contributions have been published in esteemed journals like PLoS ONE and BMC Medical Informatics and Decision Making.
+
+In addition to my technical skills, I am fluent in both English and Chinese. I also possess a working knowledge of German (Elementary - B2). I am deeply intrigued by cutting-edge technologies and fascinated by the diverse life philosophies found across various cultures.
+
+Please <a class="highlight-link" href="https://www.dropbox.com/s/yf5sktzmnjm3ewm/XiaoweiKortum_CV.pdf?dl=0" target="_blank" rel="noreferrer"> Download My CV </a>, or find me on <a class="highlight-link" href="https://www.linkedin.com/in/xiaoweikortum/" target="_blank" rel="noreferrer">LinkedIn</a> for more about me.
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
@@ -56,7 +63,7 @@ show_timeline_card: true
 timeline_title: Education & Experiences
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://www.dropbox.com/s/cmab8skphjzkk9p/xiaowei_CV_2023.pdf?dl=0
+cv_download_link: https://www.dropbox.com/s/yf5sktzmnjm3ewm/XiaoweiKortum_CV.pdf?dl=0
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -87,8 +94,8 @@ contact_title: My Contact Information
 contact_description: ...
 contact_address: Karlstr. 28 38106 
 contact_city: Braunschweig, Germany
-contact_phone: +49 176 7219 8909
-contact_email: xiaoweikortum@yahoo.com
+contact_phone: +49 176 7249 5019
+contact_email: xkortum@gmail.com
 
 
 # GITHUB-METADATA
