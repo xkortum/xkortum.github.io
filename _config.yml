@@ -37,15 +37,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I hold a Doctorate degree from Technische Universität Braunschweig and possess over 6 years of experience as a Computer and Data Scientist researcher and practitioner. Throughout my career, I have had the privilege of working at esteemed institutions including Ostfalia University of Applied Sciences, Medizinische Hochschule Hannover, and the University of Wisconsin.
-
-My technical expertise encompasses various domains, such as database programming and proficiency in programming languages such as R, Python, C++, C#, Java, and Objective C. Additionally, I have gained extensive experience in web design and MVC architectures.
-
-My conscientious approach and strong project management skills have led to the successful completion of numerous research projects. Notably, my contributions have been published in esteemed journals like PLoS ONE and BMC Medical Informatics and Decision Making.
-
-In addition to my technical skills, I am fluent in both English and Chinese. I also possess a working knowledge of German (Elementary - B2). I am deeply intrigued by cutting-edge technologies and fascinated by the diverse life philosophies found across various cultures.
-
-Please <a class="highlight-link" href="https://www.dropbox.com/s/yf5sktzmnjm3ewm/XiaoweiKortum_CV.pdf?dl=0" target="_blank" rel="noreferrer"> Download My CV </a>, or find me on <a class="highlight-link" href="https://www.linkedin.com/in/xiaoweikortum/" target="_blank" rel="noreferrer">LinkedIn</a> for more about me.
+about_me_description: I hold a Doctorate degree from Technische Universität Braunschweig and possess over 6 years of experience as a Computer and Data Scientist researcher and practitioner. Throughout my career, I have had the privilege of working at esteemed institutions including Ostfalia University of Applied Sciences, Medizinische Hochschule Hannover, and the University of Wisconsin. My technical expertise encompasses various domains, such as database programming and proficiency in programming languages such as R, Python, C++, C#, Java, and Objective C. Additionally, I have gained extensive experience in web design and MVC architectures. My conscientious approach and strong project management skills have led to the successful completion of numerous research projects. Notably, my contributions have been published in esteemed journals like PLoS ONE and BMC Medical Informatics and Decision Making. In addition to my technical skills, I am fluent in both English and Chinese. I also possess a working knowledge of German (Elementary - B2). I am deeply intrigued by cutting-edge technologies and fascinated by the diverse life philosophies found across various cultures. Please <a class="highlight-link" href="https://www.dropbox.com/s/yf5sktzmnjm3ewm/XiaoweiKortum_CV.pdf?dl=0" target="_blank" rel="noreferrer"> Download My CV </a>, or find me on <a class="highlight-link" href="https://www.linkedin.com/in/xiaoweikortum/" target="_blank" rel="noreferrer">LinkedIn</a> for more about me.
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
